@@ -10,6 +10,6 @@ class First{
 
     public function testSdk()
     {
-        echo 'hello world';
+        echo 'hello world auto bind';
     }
 }
