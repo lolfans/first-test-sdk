@@ -6,7 +6,7 @@ namespace FirstSdk;
  * Date: 2019/9/6
  * Time: 13:04
  */
-class FirstClass{
+class First{
 
     public function testSdk()
     {
