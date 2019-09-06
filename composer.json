@@ -1,0 +1,13 @@
+{
+    "name": "first/sdk",
+    "description": "lius",
+    "authors": [
+        {
+            "name": "liuda",
+            "email": "313273766@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"FirstSdk\\": "src/"}
+    }
+}
